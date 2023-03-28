@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 """
-# フリマ分析アプリ
+# フリマ分析アプリ!!!
 
 """
 
